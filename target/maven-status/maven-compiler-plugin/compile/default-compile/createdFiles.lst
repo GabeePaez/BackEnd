@@ -1,5 +1,5 @@
 com\gab\gab\Security\jwt\JwtTokenFilter.class
-com\gab\gab\Interface\IPersonaService.class
+com\gab\gab\Dto\dtoHys.class
 com\gab\gab\Security\Repository\iUsuarioRepository.class
 com\gab\gab\Controller\CEducacion.class
 com\gab\gab\Security\Service\RolService.class
@@ -21,12 +21,17 @@ com\gab\gab\Service\ImpPersonaService.class
 com\gab\gab\Repository\RExperiencia.class
 com\gab\gab\Controller\CExperiencia.class
 com\gab\gab\Security\Service\UsuarioService.class
+com\gab\gab\Repository\Rhys.class
 com\gab\gab\Repository\IPersonaRepository.class
 com\gab\gab\Entity\Persona.class
 com\gab\gab\Security\Entity\Rol.class
+com\gab\gab\Entity\hys.class
+com\gab\gab\Dto\dtoPersona.class
 com\gab\gab\Security\Dto\JwtDto.class
 com\gab\gab\Security\Dto\LoginUsuario.class
 com\gab\gab\Security\Repository\iRolRepository.class
+com\gab\gab\Service\Shys.class
+com\gab\gab\Controller\CHys.class
 com\gab\gab\Security\Entity\Usuario.class
 com\gab\gab\Security\jwt\JwtProvider.class
 com\gab\gab\Security\Enums\RolNombre.class
